@@ -51,6 +51,55 @@ header {
 }
 /* header section */
 
+/* for bonus */
+.bonus{
+  display: flex;
+  background-color:ghostwhite;
+  width: 70%;
+  height: 30vh;
+  border-style: none;
+  border-radius: 10px;
+  margin-top: -100px;
+  margin-left: 100px;
+  padding: 50px 100px;
+  
+
+}
+.phone{
+  font-size: 70px;
+  font-weight: 800;
+}
+.sub-head{
+  font-size: 30px;
+  font-weight: 600;
+
+}
+.bonus-contact{
+  border-right: 7px solid black;
+ 
+  
+
+}
+.bonus-appoint{
+  display: inline-flex;
+  padding: 30px 30px;
+}
+.btn-appoint{
+  width:400px ;
+  height: 100px;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: #444343;
+  color:white;
+  border-radius: 10px;
+  padding: 20px;
+  border-style: none;
+  margin-left: 40px;
+  
+ 
+}
+/* for bonus */
+
 /* failure section */
 .failure {
   width: 50%;
