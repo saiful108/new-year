@@ -12,7 +12,7 @@ header {
 /* header align right */
 .right {
   padding-top: 200px;
-  padding-bottom: 360px;
+  /* padding-bottom: 360px; */
   margin-left: 1000px;
   margin-right: 200px;
 }
